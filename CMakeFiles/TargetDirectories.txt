@@ -1,0 +1,9 @@
+/code/easy_kvstore/server/CMakeFiles/easy_kvstore.dir
+/code/easy_kvstore/client/CMakeFiles/kvstore_client.dir
+/code/easy_kvstore/muduo/base/CMakeFiles/muduo_base.dir
+/code/easy_kvstore/muduo/net/http/CMakeFiles/muduo_http.dir
+/code/easy_kvstore/muduo/net/inspect/CMakeFiles/muduo_inspect.dir
+/code/easy_kvstore/muduo/net/CMakeFiles/muduo_net.dir
+/code/easy_kvstore/muduo/net/protobuf/CMakeFiles/muduo_protobuf_codec.dir
+/code/easy_kvstore/muduo/net/protorpc/CMakeFiles/muduo_protorpc.dir
+/code/easy_kvstore/muduo/net/protorpc/CMakeFiles/muduo_protorpc_wire.dir

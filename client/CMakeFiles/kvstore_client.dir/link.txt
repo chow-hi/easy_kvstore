@@ -1,0 +1,1 @@
+g++   -g -D_FILE_OFFSET_BITS=64 -w -Wextra -Wconversion -Wno-unused-parameter -Wold-style-cast -Woverloaded-virtual -Wpointer-arith -Wshadow -Wwrite-strings -march=native -std=c++0x -rdynamic -O0    CMakeFiles/kvstore_client.dir/kvstore_client.cc.o  -o ../bin/kvstore_client -rdynamic ../lib/libmuduo_net.a ../lib/libmuduo_base.a -lpthread -lrt 

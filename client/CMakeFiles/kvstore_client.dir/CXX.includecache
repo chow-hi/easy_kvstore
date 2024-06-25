@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/code/easy_kvstore/client/kvstore_client.cc
+iostream
+-
+stdio.h
+-
+sys/socket.h
+-
+arpa/inet.h
+-
+stdlib.h
+-
+unistd.h
+-
+string.h
+-
+chrono
+-
+queue
+-
+
